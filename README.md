@@ -25,9 +25,9 @@ Please see how to contribute to the project
 please see our code of conduct
 
 ### Installation
-1.	Download folder Sistem Informasi Inventaris di https://github.com/
+1.	Download folder Sistem Informasi Inventaris di https://github.com/NDlfgithub04/Sisfo_Inventaris.git
 2.	Install webserver di computer / laptop, disini saya menggunakan XAMPP.
-3.	Extract folder yang sudah di download sebelumnya di C:\xampp\htdocs.
+3.	Extract folder rar yang sudah di download sebelumnya di C:\xampp\htdocs.
 4.	Buat database baru di webserver dan Import database db_persediaan.sql.
 5.	Buka xampp control panel,  jalankan Apache dan MySQL.
 6.	Jalankan sistem melalui web browser dengan alamat : localhost/Sistem_Inventaris/
