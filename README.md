@@ -24,7 +24,7 @@ Please see how to contribute to the project
 ## Code of Conduct (Kode Etik)
 please see our code of conduct
 
-### Installation
+## Installation
 1.	Download folder Sistem Informasi Inventaris di https://github.com/NDlfgithub04/Sisfo_Inventaris.git
 2.	Install webserver di computer / laptop, disini saya menggunakan XAMPP.
 3.	Extract folder rar yang sudah di download sebelumnya di C:\xampp\htdocs.
